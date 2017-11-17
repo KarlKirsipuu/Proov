@@ -14,6 +14,11 @@ namespace Tunnitöö_rakendus
             Console.WriteLine("See on siin nüüd mingisugune programm.");
             Console.ReadLine();
 
+            Console.WriteLine("OHHOOOO");
+            Console.WriteLine("OIOIOI");
+            Console.ReadKey();
+
+
         }
     }
 }
